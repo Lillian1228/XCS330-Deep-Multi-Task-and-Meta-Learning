@@ -1,0 +1,2 @@
+# Ignore logs folder in PS3
+PS3-main-model-agnostic-meta-learning/src/logs/
